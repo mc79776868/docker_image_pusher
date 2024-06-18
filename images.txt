@@ -1,1 +1,1 @@
-shtse8/photopea:1.0
+linuxserver/transmission:latest
