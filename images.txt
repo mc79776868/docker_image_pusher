@@ -1,1 +1,1 @@
-sailfrog/cypht-docker
+oldiy/docker-webssh2
