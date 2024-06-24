@@ -1,1 +1,1 @@
-linuxserver/transmission:latest
+sailfrog/cypht-docker
