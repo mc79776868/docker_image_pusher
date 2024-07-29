@@ -1,1 +1,1 @@
-nezha123/titan-edge:latest
+nezha123/titan-edge:latest  
