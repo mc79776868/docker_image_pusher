@@ -1,1 +1,1 @@
-nezha123/titan-edge:latest  
+seriousm4x/upsnap:latest
