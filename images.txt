@@ -1,1 +1,1 @@
-WordPress/WordPress:latest
+docker-library/wordpress:latest
